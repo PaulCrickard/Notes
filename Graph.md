@@ -20,21 +20,7 @@
 
 
 ### Crime Moreno
-[CrimeGraph](http://networkrepository.com/ia-crime-moreno.php)
-[Interactive](http://networkrepository.com/graphvis.php?d=./data/gsm50/ia/ia-crime-moreno.edges)
-Metrics
+[SNAP](http://snap.stanford.edu/data/index.html)
 
-* Nodes	829
-* Edges	1.5K
-* Density	0.0042948
-* Maximum degree	25
-* Minimum degree	1
-* Average degree	3
-* Assortativity	-0.163843
-* Number of triangles	57
-* Average number of triangles	0
-* Maximum number of triangles	5
-* Average clustering coefficient	0.00583498
-* Fraction of closed triangles	0.00756872
-* Maximum k-core	4
-* Lower bound of Maximum Clique	3
+### 3D
+[mayavi](https://networkx.github.io/documentation/stable/auto_examples/3d_drawing/mayavi2_spring.html#sphx-glr-auto-examples-3d-drawing-mayavi2-spring-py)
