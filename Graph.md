@@ -22,6 +22,9 @@
 ### Crime Moreno
 [SNAP](http://snap.stanford.edu/data/index.html)
 
+### Blog Posts
+[analysis](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
+
 ### 3D
 [mayavi](https://networkx.github.io/documentation/stable/auto_examples/3d_drawing/mayavi2_spring.html#sphx-glr-auto-examples-3d-drawing-mayavi2-spring-py)
 
